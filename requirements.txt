@@ -1,0 +1,5 @@
+requests
+icalendar
+recurring-ical-events
+Pillow
+boto3

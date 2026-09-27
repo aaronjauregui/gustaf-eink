@@ -1,0 +1,8 @@
+# Keep secrets, local state and the venv out of the build context.
+.env
+.venv/
+__pycache__/
+cron.log
+weather_cache.json
+*.png
+.git/
